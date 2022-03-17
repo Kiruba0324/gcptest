@@ -40,7 +40,7 @@
 				<version>2.2.0</version>
 				<configuration>
 					<version>1</version>
-					<projectId>gcp-springboot-344413</projectId>
+					<projectId></projectId>gcp-migration-344414
 				</configuration>
 			</plugin>
 		</plugins>
